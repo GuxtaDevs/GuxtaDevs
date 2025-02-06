@@ -1,6 +1,6 @@
 👋 Olá, mundo! Eu sou o Gustavo.
 
-Sou um jovem apaixonado por tecnologia, sempre explorando novas áreas da programação. Atualmente, estou aprendendo sobre desenvolvimento, IA e análise de dados, buscando evoluir com projetos desafiadores.
+Sou um jovem apaixonado por tecnologia, sempre explorando novas áreas da tecnologia. Atualmente, estou aprendendo sobre desenvolvimento, IA e análise de dados, buscando evoluir com projetos desafiadores.
 
 🚀 Sobre Mim:
 - 💻 Desenvolvedor em aprendizado, focado na linguagem Python, IA e Ciência de Dados.
