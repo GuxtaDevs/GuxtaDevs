@@ -5,7 +5,7 @@ Sou um jovem apaixonado por tecnologia, sempre explorando novas áreas da tecnol
 🚀 Sobre Mim:
 - 💻 Desenvolvedor em aprendizado, focado na linguagem Python, IA e Ciência de Dados.
 - 🌱 Atualmente estudando e aprimorando minhas habilidades.
-- 🎯 Buscando desafios que me façam crescer como programador.
+- 🎯 Buscando desafios que me façam crescer como desenvolvedor.
 - 🤝 Em constante busca pelo aprendizado! Entre em contato e vamos trocar ideias.
 - 📌 Trabalhando no desenvolvimento de alguns projetos.
 
